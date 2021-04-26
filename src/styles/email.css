@@ -1,4 +1,9 @@
-
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1.6rem;
+    padding:0;
+}
 .container {
     position: relative;
     text-align: center;
@@ -25,7 +30,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(3, 94, 214);
+    background-color: rgb(0, 0, 0);
     max-width: 100%;
     min-height: 199px;
     position: relative;
@@ -75,7 +80,7 @@ width: 400px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(3, 94, 214);
+    background-color: rgb(0, 0, 0);
     min-width: 98%;
     max-width: 100%;
     min-height: 158px;
@@ -83,6 +88,8 @@ width: 400px;
     padding-top: 80px;
     clip-path: polygon(0 30%, 100% 0, 100% 100%, 0 100%, 0 19%);
 }
+
+
 .article-hello {
     text-align: left;
     font-family:  Helvetica;
