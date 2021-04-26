@@ -20,10 +20,10 @@ A aplicação conta com uma página de email que será enviada para o usuário c
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/public/assets/tela2.png) 
+![Mobile 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/blob/main/public/assets/tela2.png) 
 
 ## Layout web
-![Web 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/public/assets/tela1.png)
+![Web 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/blob/main/public/assets/tela1.png)
 
 
 <h4 align="center"> 
