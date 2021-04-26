@@ -18,12 +18,10 @@ E ainda pode cadastrar o seus amigos, para eles receberem a lista personalizada 
 A aplicação também tem cards de produtos da loja com um botão abaixo "Ainda mais produtos aqui" que retorna uma nova lista de produtos.
 A aplicação conta com uma página de email que será enviada para o usuário cadastrado
 
-
-## Layout mobile
-![Mobile 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/blob/main/public/assets/tela2.png) 
-
 ## Layout web
 ![Web 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/blob/main/public/assets/tela1.png)
+## Layout mobile
+![Mobile 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/blob/main/public/assets/tela2.png) 
 
 
 <h4 align="center"> 
@@ -49,7 +47,7 @@ A aplicação conta com uma página de email que será enviada para o usuário c
 git clone https://github.com/gabrielVjfl/desafio_frontend_linx_react.git
 
 # entrar na pasta do projeto front-end
-cd desafio_frontend_linx_principal
+cd desafio_frontend_linx_react
 npm i
 npm start
 
