@@ -47,7 +47,7 @@ const HandleGetListPlus = async() => {
       <div className="row" id="zonesPlus">
         {
           list.map(item => 
-            <div className="card">
+            <div key={item.id} className="card">
     <div className="card-content">
     <div className="card-header">
       <img loading="lazy" src={'http:',item.image}/>
